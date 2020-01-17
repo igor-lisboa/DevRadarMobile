@@ -11,3 +11,5 @@
 * yarn add react-navigation-stack
 # instala mapView do REACT
 * expo install react-native-maps
+# instala componente de localização
+* expo install expo-location
