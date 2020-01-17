@@ -13,3 +13,5 @@
 * expo install react-native-maps
 # instala componente de localização
 * expo install expo-location
+# instala webview
+* expo install react-native-webview
