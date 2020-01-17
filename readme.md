@@ -15,3 +15,5 @@
 * expo install expo-location
 # instala webview
 * expo install react-native-webview
+# instala axios
+* yarn add axios
