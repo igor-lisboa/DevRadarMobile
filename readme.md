@@ -8,3 +8,4 @@
     * site do react falando sobre navegação
 * yarn add react-navigation
 * expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
+* yarn add react-navigation-stack
